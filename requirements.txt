@@ -1,0 +1,29 @@
+# Framework principal para construir APIs rápidas y modernas
+fastapi
+
+# Servidor ASGI ligero y rápido para ejecutar FastAPI
+uvicorn
+
+# ORM para mapear tablas y relaciones en PostgreSQL
+sqlalchemy
+
+# Driver para conectar Python con PostgreSQL
+psycopg2-binary
+
+# Herramienta de migraciones para versionar cambios en la base de datos
+alembic
+
+# Librería para encriptar contraseñas de forma segura
+bcrypt
+
+# Librería para generar y validar JWT (JSON Web Tokens) con soporte criptográfico
+python-jose[cryptography]
+
+# Librería para manipulación de datos (usada para leer y procesar Excel)
+pandas
+
+# Motor para leer archivos Excel (.xlsx) junto con pandas
+openpyxl
+
+# Librería para validación de datos y definición de schemas (modelos de entrada/salida)
+pydantic
